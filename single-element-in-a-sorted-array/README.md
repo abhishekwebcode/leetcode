@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/10/2021 at 8:30)](https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/1587319/EASY-LOGIC-BEGINNER-FRIENDLY-PYTHON-SOLUTION-%3A))  
 <h2>540. Single Element in a Sorted Array</h2><h3>Medium</h3><hr><div><p>You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.</p>
 
 <p>Return <em>the single element that appears only once</em>.</p>
